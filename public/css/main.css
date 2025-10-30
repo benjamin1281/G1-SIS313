@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* styles/main.scss */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Aquí puedes agregar tus propios estilos SCSS, variables, nesting, etc. */
+
+/*# sourceMappingURL=main.css.map */
