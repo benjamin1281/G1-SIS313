@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
 "scripts": {
-  "sass:watch": "npx sass --watch css/main.scss:public/css/main.css", 
-  "tailwind:watch": "node node_modules/tailwindcss/lib/cli.js -i public/css/main.css -o public/css/output.css --watch"
+  "sass:watch": "npx sass --watch css/main.scss:public/css/main.css",
+  "tailwind:watch": "npx tailwindcss -i public/css/main.css -o public/css/output.css --watch"
 },
   "keywords": [],
   "author": "",
